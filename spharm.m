@@ -1,9 +1,12 @@
 function [Ynl]=spharm(N,L,THETA,PHI);
+
+
 %
 % Calculates the spherical harmonics for given degree and order
 % as well as position xi=(theta,phi) on the unit sphere Omega
 % using the orthonormalized Legendre Functions
 %
+
 
 
 
